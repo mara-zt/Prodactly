@@ -136,7 +136,7 @@ height: 16px; border-radius: 50%; border: none; font-size: 0; background-color: 
 
 
 @media (max-width: 768px) {
-.top__inner {padding: 80px 0 60px;}
+.top__inner, .direction,.blog {padding: 80px 0 60px;}
 .tools {padding-top: 80px;}
 .tools__inner {padding-bottom: 60px;}
 }
